@@ -1,0 +1,67 @@
+body
+{
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29401697.jpg");
+}
+.titles
+{
+    height: 200px;
+    width:1000px;
+    background-color: #DAA520;
+    border-radius: 20px;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.title
+{
+    text-align: center;
+    color: #1C1C1C;
+    font-family: GiangSinh;
+    font-size: 60px;
+    margin: auto;
+}
+.nhapthongtin{
+    height: 200px;
+    width: 600px;
+    background-color: #DAA520;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.input
+{
+    margin-bottom: 2px;
+    margin-left: 50px;
+    justify-content: space-between;
+    
+}
+input
+{
+    width: 80%;
+    border-radius: 9999em;
+    box-sizing: padding-box;
+    padding: 10px;
+}
+.input-submit{
+    margin-left: 220px;
+    padding-top: 10px;
+    
+
+
+}
+button{
+    background-color: Firebrick;
+    padding: 12px 32px;
+    font-weight: bold;
+
+}   
+.icons
+{
+    font-size: 40px;
+}
+@font-face { font-family: GiangSinh; src: url('WavingatChristmas.ttf'); } 
+{
+
